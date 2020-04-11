@@ -1,1 +1,5 @@
 Es pagina es para ver como funciona Git t como poder usar el control de versiones
+
+Si lo cambio ahora me mostrar cual fue el ultimo camibo 
+
+Naci el 28/09/2000
