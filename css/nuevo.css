@@ -3,6 +3,8 @@ body {
     font-size: 16px;
     font-family: arial;
     background-color: aqua;
+    text-align: center;
+    font-weight: bold;
 }
 
 head {
