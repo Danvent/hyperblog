@@ -1,0 +1,1 @@
+Es pagina es para ver como funciona Git t como poder usar el control de versiones
