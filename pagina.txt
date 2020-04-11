@@ -6,3 +6,5 @@ Naci el 28/09/2000
 
 El nuevo cambio se esta haciendo que ponga el nombre de mis gatos "Manchas" y "Nieves"
 
+Esta es la version final, creando mi edad actual y cuando cumplire años
+edad actual 19 años, dentro de 5 meses sera mi cumpleaños
