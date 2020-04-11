@@ -3,3 +3,6 @@ Es pagina es para ver como funciona Git t como poder usar el control de versione
 Si lo cambio ahora me mostrar cual fue el ultimo camibo 
 
 Naci el 28/09/2000
+
+El nuevo cambio se esta haciendo que ponga el nombre de mis gatos "Manchas" y "Nieves"
+
