@@ -11,15 +11,12 @@ body {
 
 .header {
     display: flex;
-    display: flex;
     justify-content: center;
 }
 
 .cabezera {
     color: beige;
     width: 50%;
-    align-items: inherit;
-    vertical-align: middle;
     background-color: blueviolet;
 }
 
