@@ -18,6 +18,14 @@ body {
     color: beige;
     width: 50%;
     background-color: #4e4e4e;
+    padding: 15px;
+    box-shadow: 12px 10px #5e5d5d;
+}
+
+.cabezera:hover {
+    color: red;
+    background-color: #5e5d5d;
+    box-shadow: 12px 10px #4e4e4e;
 }
 
 .container2{
