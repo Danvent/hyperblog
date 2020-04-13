@@ -11,6 +11,7 @@
 [========]
 
 ##El proyecto creado en Platzi es HyperBlog
+##Esta es una copia del titulo 
 
 > Proyecto realizado gracias a lo aprendido en Git y Github para una mejora continua
 > >  Actualmente el curso ya esta culminado pero siempre es bueno seguir aprendiendo
