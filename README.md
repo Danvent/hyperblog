@@ -12,7 +12,7 @@
 
 ##El proyecto creado en Platzi es HyperBlog
 ##Esta es una copia del titulo 
-
+###Esta el la tercera copia de titulo
 > Proyecto realizado gracias a lo aprendido en Git y Github para una mejora continua
 > >  Actualmente el curso ya esta culminado pero siempre es bueno seguir aprendiendo
 > > > En el transcurso del proyecto aprendimos como manipular la consola de Git
