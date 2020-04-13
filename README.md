@@ -4,6 +4,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 |Estas tú|15|12|
 
+#Titulo nuevo
 		Practicando el readme en Editor.mrd
 		Esta prohibido copiar ideas en platzi, usa tu creatividad y avanzaras
 		Además debes practicar todos los días lo que aprendas.
